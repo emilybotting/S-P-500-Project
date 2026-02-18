@@ -6,12 +6,12 @@ This project analyses and visualises historical S&P 500 market data from 2014 to
 
 ## Technologies
 
-* **Data Source:** Historical S&P 500 market data (CSV format)
+* **Data Source:** Historical S&P 500 market data (2014-2017) [link](https://mavenanalytics.io/data-playground/s-p-500-stock-prices)  
 * **Language:** DAX
 * **Visualisation:** Power BI
 
 ## Data Architecture
 
-* Data is extracted from CSV files
+* Data is extracted from a CSV format file
 * Data is transformed and visualised in Power BI
 * Analytical outputs are also visualised in Power BI
